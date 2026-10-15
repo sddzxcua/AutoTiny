@@ -1,0 +1,14 @@
+{
+  "name": "Xiaomi_Recovery",
+  "dhcp_enabled": false,
+  "dhcp_dns": false,
+  "ip_address": "192.168.31.100",
+  "subnet_mask": "255.255.255.0",
+  "default_gateway": "192.168.31.1",
+  "dns_primary": "192.168.31.1",
+  "dns_secondary": "",
+  "boot_filename": "test.bin",
+  "proxy_dhcp": false,
+  "pool_start": "192.168.31.2",
+  "enable_http": false
+}
