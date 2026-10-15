@@ -1,10 +1,7 @@
 # AutoTiny v2.0 ⚡
 
 > **Современный, чистый и функциональный инструмент для сетевой прошивки роутеров и PXE-загрузки с полной интеграцией Autosettings, чит-панелью профилей, живым TFTP-прогрессом и UART-терминалом.**
-<img width="421" height="446" alt="AutoTiny_Lum7Xcf3Wq" src="https://github.com/user-attachments/assets/4da46f3c-ef08-49ea-931f-a387054fbe93" />
-<img width="421" height="446" alt="AutoTiny_ZP2E5eePuv" src="https://github.com/user-attachments/assets/b9d1f31f-7453-488e-844f-19b502044891" />
-<img width="421" height="446" alt="AutoTiny_6fQFSMwNer" src="https://github.com/user-attachments/assets/57e01dfa-c426-473d-a109-7ffad5092813" />
-<img width="421" height="446" alt="AutoTiny_auggvZF3Qw" src="https://github.com/user-attachments/assets/089112a2-9c6c-4872-b0fa-ab569f1770b9" />
+<img width="210" height="223" alt="AutoTiny_Lum7Xcf3Wq" src="https://github.com/user-attachments/assets/4da46f3c-ef08-49ea-931f-a387054fbe93" /> <img width="210" height="223" alt="AutoTiny_ZP2E5eePuv" src="https://github.com/user-attachments/assets/b9d1f31f-7453-488e-844f-19b502044891" /> <img width="210" height="223" alt="AutoTiny_6fQFSMwNer" src="https://github.com/user-attachments/assets/57e01dfa-c426-473d-a109-7ffad5092813" /> <img width="210" height="223" alt="AutoTiny_auggvZF3Qw" src="https://github.com/user-attachments/assets/089112a2-9c6c-4872-b0fa-ab569f1770b9" />
 
 
 
